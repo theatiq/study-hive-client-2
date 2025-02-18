@@ -2,6 +2,13 @@ Project Name : "StudyHive : A Collaborative Study Platform"
    1. Assignment variant :Assignment12_category_022
    2. Admin email:      admin2@gmail.com
    3. Admin password:   Admin2@123
+
+      Tutor-User: tutor1@gmail.com
+      Tutor-Password: Tutor1@123
+      
+      Student-User: student1@gmail.com
+      Student-Password: Student1@123
+
    4. Front-end Live Site Link:https://study-hive-atiqur.web.app/
    5. Client Side Github Repository Link:https://github.com/Programming-Hero-Web-Course4/b10a12-client-side-theatiq
    6. Server Side Github Repository Link:https://github.com/Programming-Hero-Web-Course4/b10a12-server-side-theatiq
